@@ -1,0 +1,57 @@
+
+
+.aboutcont{
+  background-color: #947f57;
+}
+
+.aboutcontleft,.aboutcontright{
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+.addressportals .visitit{
+  margin-top: 10px;
+  font-size: 50px;
+}
+
+.addressportals .visitit:hover{
+  font-size: 70px;
+}
+
+.end{
+  padding:3%;
+  background-color: #2B2B2B;
+  color: #947f57;
+}
+
+
+.endp{
+  font-size: 30px;
+
+}
+
+.endp2{
+  font-size: 25px;
+  margin-bottom: 4px;
+}
+
+.head1{
+  font-size: 50px;
+}
+
+.head2{
+  font-size: 55px;
+}
+
+.head3{
+  font-size: 60px;
+}
+
+.r1{
+  margin-bottom: 20px;
+}
+
+#titleSection2{
+  height: 450px;
+  background-image: url("../images/titlebg.jpg");
+}

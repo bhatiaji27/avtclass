@@ -1,0 +1,117 @@
+.addresscont{
+  padding: 0;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+
+.address1{
+  color: #C69B7B;
+  margin-bottom: 5px;
+  font-size: 35px;
+}
+
+.addressportals .visitit{
+  margin-top: 10px;
+  font-size: 50px;
+}
+
+.addressportals .visitit:hover{
+  font-size: 70px;
+}
+
+.ars,.arss{
+  position: relative;
+  right: 145px;
+  top: 77px;
+  width: 70%;
+}
+
+.arsbtn{
+  margin: 0 20px;
+}
+
+.arscontent{
+  position: relative;
+  bottom: 28px;
+}
+
+.arscontentbtn{
+  position: relative;
+  bottom: 32px;
+  left: 420px;
+  color: #fff;
+  font-weight: bolder;
+  background-color: black;
+}
+.arscontentbtn:hover{
+  color: black;
+  font-weight: bold;
+  background-color: yellow;
+}
+
+.coachaddress,.address1{
+  margin-left: 0px;
+  font-size: 25px;
+  position: relative;
+  bottom: 50px;
+  margin-right: 70px;
+}
+
+.coachaddressmap{
+  position: relative;
+  bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 50px;
+}
+
+.facultytitle{
+  font-size: 60px;
+}
+
+.end{
+  padding:3%;
+  background-color: #2B2B2B;
+  color: #947f57;
+}
+
+.endp{
+  font-size: 30px;
+
+}
+
+.endp2{
+  font-size: 25px;
+  margin-bottom: 4px;
+}
+
+.facultywords{
+  font-size: 40px;
+  line-height: 1.5;
+  color: red;
+}
+
+.fc{
+  margin: 0px;
+  background-image:url(../images/education.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.profile{
+  position: relative;
+  top: 10px;
+  left: 130px;
+}
+
+#carouselExampleControls{
+  background-image: url("../images/titlebg.jpg");
+}
+
+#titleSection{
+  height: 450px;
+  background-image: url("../images/titlebg.jpg");
+}
